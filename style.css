@@ -1,0 +1,10 @@
+.dashed {
+  border: 1px dashed grey !important;
+  color: grey;
+  height: 10rem;
+}
+
+.rounded-btn {
+  width: 30%;
+  border-radius: 20px !important;
+}
